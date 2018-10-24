@@ -35,3 +35,9 @@ workspace python path for visual studio code to use it.
 Wee warning that as of writing this has only been used in toy projects.
 
 It is possible to make these commands available at startup by adding them to a powershell profile
+
+## timestamper.ahk
+
+makes a hotkey for autotyping out the current time in both local zone and UTC
+
+intended to be used to make keeping logs easier
